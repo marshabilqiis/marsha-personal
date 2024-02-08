@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="UTF-8">
+    <title> !!! HAPPY BIRTHDAY BESTIEEE !!!</title>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
+
+</head>
+<body background="Purple.png">
+    <h1 style="text-align:center;">!!! HAPPY BIRTHDAY BESTIEEE !!!</h1>
+    <p style="text-align:center;">SEMOGA PANJANG UMUR BAHAGIA DAN SEHAT SELALU ABANGKUHH.</p>
+    <img src="pict.jpg" class="center" width="200" lenght="300">
+</body>
+</html>
